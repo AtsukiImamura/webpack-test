@@ -1,0 +1,9 @@
+.hoge {
+    display: inline;
+}
+
+.fuga {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
